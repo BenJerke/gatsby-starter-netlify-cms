@@ -1,14 +1,12 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: We Do Not Sell Coffee
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Coffee Does Not Have a Conscience
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ Commodity markets are propped up by exploitation of workers living on subsistence wages in 
+ the periphery of the world. 
 intro:
   blurbs:
     - image: /img/coffee.png
